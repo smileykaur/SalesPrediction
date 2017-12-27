@@ -14,7 +14,7 @@ This part involve curating, cleaning, massaging and creating new features in the
 This part help identify significant features, feature correlation, identify features with outliers. This is done by performaing Univariate and Multivariate Analysis. Performed various visualizations like Box-plot, Histogram, Violin Plors, Scatter Plots etc.
 
 - **Part IV. Building Regression Model**
-In this project I build three different models - Logistic Regression(Linear Model), Decision Tree(Non-Linear Model) and Gradient Boosting.
+In this project I build three different models - Linear Regression(Linear Model), Decision Tree(Non-Linear Model) and Gradient Boosting.
 
 - **Part V. Model Evaluation**
 This notebook utilize Root Mean Square Error(RMSE) and Mean Absolute Error(MAE) to evaluate the models created.
